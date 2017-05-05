@@ -1,0 +1,20 @@
+sue:flarelist milo$ time python hmi_data_download.py
+_RegisterApplication(), FAILED TO establish the default connection to the WindowServer, _CGSDefaultConnection() is NULL.
+time.struct_time(tm_year=2017, tm_mon=4, tm_mday=27, tm_hour=16, tm_min=58, tm_sec=37, tm_wday=3, tm_yday=117, tm_isdst=1)
+directory 2017_04_01_21_04 do not exist, creating directoy and downloading files
+120
+time.struct_time(tm_year=2017, tm_mon=4, tm_mday=27, tm_hour=17, tm_min=5, tm_sec=33, tm_wday=3, tm_yday=117, tm_isdst=1)
+directory 2017_04_02_07_12 do not exist, creating directoy and downloading files
+120
+time.struct_time(tm_year=2017, tm_mon=4, tm_mday=27, tm_hour=17, tm_min=12, tm_sec=29, tm_wday=3, tm_yday=117, tm_isdst=1)
+directory 2017_04_02_17_36 do not exist, creating directoy and downloading files
+120
+time.struct_time(tm_year=2017, tm_mon=4, tm_mday=27, tm_hour=17, tm_min=19, tm_sec=33, tm_wday=3, tm_yday=117, tm_isdst=1)
+directory 2017_04_03_00_14 do not exist, creating directoy and downloading files
+121
+
+real	28m1.903s
+user	0m41.081s
+sys	0m48.830s
+sue:flarelist milo$ 
+
